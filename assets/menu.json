@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1764788390659,
+    "name": "اسبرسو",
+    "category": "المشروبات الحارة",
+    "price": 2500,
+    "imageUrl": "",
+    "description": "حـبوب قهوة الاسبريسو المطحونة وماء.",
+    "variants": []
+  },
+  {
+    "id": 1764788391001,
+    "name": "اسبرسو دبل",
+    "category": "المشروبات الحارة",
+    "price": 3000,
+    "imageUrl": "",
+    "description": "استخلاص حبوب اسبريسو وماء.",
+    "variants": []
+  },
+  {
+    "id": 1764788390542,
+    "name": "كابتشينو",
+    "category": "المشروبات الحارة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم، رغوة.",
+    "variants": []
+  },
+  {
+    "id": 1764788390380,
+    "name": "موكا",
+    "category": "المشروبات الحارة",
+    "price": 4500,
+    "imageUrl": "",
+    "description": "اسبريسو سيروب شوكولات، حليب خالي الدسم مبخر.",
+    "variants": []
+  },
+  {
+    "id": 1764788390737,
+    "name": "كوفي لاتيه",
+    "category": "المشروبات الحارة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم مبخر.",
+    "variants": []
+  },
+  {
+    "id": 1764788390853,
+    "name": "لاتيه بندق",
+    "category": "المشروبات الحارة",
+    "price": 4500,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب البندق دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390412,
+    "name": "لاتيه فانيلا",
+    "category": "المشروبات الحارة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب الفانيلا دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390315,
+    "name": "لاتيه كراميل",
+    "category": "المشروبات الحارة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب الكراميل دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390901,
+    "name": "فرابتشينو",
+    "category": "فرابتشينو",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم، سيروب فانيلا دايت، مسحوق الفراپ دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390784,
+    "name": "فراب موكا",
+    "category": "فرابتشينو",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم، سيروب شوكولات دايت، مسحوق الفراپ دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390452,
+    "name": "فراب كراميل",
+    "category": "فرابتشينو",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم، سيروب كراميل دايت، مسحوق الفراپ دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390885,
+    "name": "ايس امريكانو",
+    "category": "المشروبات الباردة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "مستخلص حبوب الاسبريسو، ماء، ثلج.",
+    "variants": []
+  },
+  {
+    "id": 1764788390833,
+    "name": "ايس موكا",
+    "category": "المشروبات الباردة",
+    "price": 5500,
+    "imageUrl": "",
+    "description": "اسبريسو، سيروب شوكولات دايت، حليب خالي الدسم، ثلج.",
+    "variants": []
+  },
+  {
+    "id": 1764788390633,
+    "name": "ايس لاتيه",
+    "category": "المشروبات الباردة",
+    "price": 4500,
+    "imageUrl": "",
+    "description": "قهوة اسبريسو، حليب خالي الدسم، ثلج.",
+    "variants": []
+  },
+  {
+    "id": 1764788390338,
+    "name": "ايس لاتيه بندق",
+    "category": "المشروبات الباردة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب البندق دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390621,
+    "name": "ايس لاتيه كراميل",
+    "category": "المشروبات الباردة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب الكراميل دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788390404,
+    "name": "ايس لاتيه فانيلا",
+    "category": "المشروبات الباردة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "اسبريسو، حليب خالي الدسم، سيروب الفانيلا دايت.",
+    "variants": []
+  },
+  {
+    "id": 1764788391220,
+    "name": "ايس تي ليمون",
+    "category": "المشروبات الباردة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "مركز الشاي المنكه بالليمون دايت، عصارة الليمون الطبيعي، ماء، ثلج.",
+    "variants": []
+  },
+  {
+    "id": 1764788390713,
+    "name": "ايس تي خوخ",
+    "category": "المشروبات الباردة",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "مركز الشاي المنكه بالخوخ دايت، عصارة الليمون الطبيعي، ماء، ثلج.",
+    "variants": []
+  },
+  {
+    "id": 1764788390460,
+    "name": "سموذي منجا",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3336.jpeg",
+    "description": "فاكهة المانجا الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390382,
+    "name": "سموذي منجا وفراولة",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3337.jpeg",
+    "description": "فاكهة المانجا والفراولة الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390627,
+    "name": "سموذي منجا وباشن",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3331.jpeg",
+    "description": "فاكهة المانجا والباشن فروت الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390913,
+    "name": "سموذي باشن فروت",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3332.jpeg",
+    "description": "فاكهة الباشن فروت الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390516,
+    "name": "سموذي فراولة",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3335.jpeg",
+    "description": "فاكهة الفراولة الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390559,
+    "name": "سموذي موز وفراولة",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3334.jpeg",
+    "description": "فاكهة الموز والفراولة الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390575,
+    "name": "سموذي اناناس",
+    "category": "سموذي",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3333.jpeg",
+    "description": "فاكهة الأناناس الطبيعية المجمدة بدون سكر.",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788391020,
+    "name": "كريب كلاسيك",
+    "category": "دايت كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3328.jpeg",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      },
+      {
+        "name": "شوكلت",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788391281,
+    "name": "كريب فواكة",
+    "category": "دايت كريب",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3329.jpeg",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      },
+      {
+        "name": "شوكليت",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788391021,
+    "name": "بنانا رول",
+    "category": "دايت كريب",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": []
+  },
+  {
+    "id": 1764788390874,
+    "name": "كريب بزبدة الفول السوداني",
+    "category": "دايت كريب",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1764788390602,
+    "name": "وافل كلاسك",
+    "category": "وافل دايت",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      },
+      {
+        "name": "شوكليت",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788390548,
+    "name": "وافل فواكه",
+    "category": "وافل دايت",
+    "price": 6000,
+    "imageUrl": "",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      },
+      {
+        "name": "شوكليت",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788390543,
+    "name": "وافل بزبدة الفول السوداني",
+    "category": "وافل دايت",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788390707,
+    "name": "وافل ستيك",
+    "category": "وافل دايت",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "variants": [],
+    "addOns": [
+      {
+        "name": "عسل",
+        "price": 1000,
+        "default": false
+      },
+      {
+        "name": "شوكليت",
+        "price": 1000,
+        "default": false
+      }
+    ]
+  },
+  {
+    "id": 1764788390906,
+    "name": "براونيز",
+    "category": "كيك ومعجنات",
+    "price": 5000,
+    "imageUrl": "assets/images/IMG_3338.jpeg",
+    "description": "",
+    "variants": [],
+    "addOns": []
+  },
+  {
+    "id": 1765060163615,
+    "name": "بروتين كيك",
+    "category": "كيك ومعجنات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "addOns": []
+  },
+  {
+    "id": 1765060176254,
+    "name": "تراميسو",
+    "category": "كيك ومعجنات",
+    "price": 5000,
+    "imageUrl": "",
+    "description": "",
+    "addOns": []
+  },
+  {
+    "id": 1765384159063,
+    "name": "كوكيز",
+    "category": "كيك ومعجنات",
+    "price": 3000,
+    "imageUrl": "assets/images/IMG_3330.jpeg",
+    "description": "",
+    "addOns": []
+  },
+  {
+    "id": 1765384973646,
+    "name": "كورتادو",
+    "category": "المشروبات الحارة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "قهوه اسبريسو وحليب خالي الدسم مبخر",
+    "addOns": []
+  },
+  {
+    "id": 1765385056604,
+    "name": "امريكانو",
+    "category": "المشروبات الحارة",
+    "price": 4000,
+    "imageUrl": "",
+    "description": "",
+    "addOns": []
+  }
+]
